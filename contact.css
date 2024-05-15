@@ -1,0 +1,111 @@
+
+    /* background: url("C:/Users/rajni/OneDrive/Desktop/met2.0/pics/anders-jilden-AkUR27wtaxs-unsplash.jpg");
+    width: 100%;
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+.bg1{
+  display: flex;
+  justify-content: space-around;
+}
+
+.head{
+    position: absolute;
+    color: white;
+    font-size: 4rem;
+    font-weight: 100;
+    margin-left: 17px;
+    margin-top: 100px;
+}
+
+.head {
+    display:inline-block;
+    /* overflow:hidden; */
+    white-space:nowrap;
+    margin-left: -4px;
+  }
+  
+ #kk47 {    /* For increasing performance 
+                         ID/Class should've been used. 
+                         For a small demo 
+                         it's okaish for now */
+    animation: showup 7s ;
+  }
+  
+  #kk48{
+    width:0px;
+    animation: reveal 7s ;
+  }
+  
+  #kk48 span {
+    
+    animation: slidein 7s ;
+  }
+  
+  @keyframes showup {
+      0% {opacity:0;}
+      20% {opacity:1;}
+      80% {opacity:1;}
+      100% {opacity:0;}
+  }
+  
+  @keyframes slidein {
+      0% { margin-left:-1260px; }
+      20% { margin-left:-1260px; }
+      35% { margin-left:0px; }
+      100% { margin-left:0px; }
+  }
+  
+  @keyframes reveal {
+      0% {opacity:0;width:0px;}
+      20% {opacity:1;width:0px;}
+      30% {width:355px;}
+      80% {opacity:1;}
+      100% {opacity:0;width:355px;}
+  }
+  .heading1{
+    margin-top: 200px;
+    margin-left: -8px;
+    font-size: 4rem;
+    font-weight: 700;
+  }
+.hr8{
+  border: 2px solid white;
+  width: 300px;
+}
+.dill{
+  margin-top: 336px;
+}
+.img99{
+  animation: rotation;
+  animation-iteration-count: infinite;
+  animation-duration:4000ms;
+}
+@keyframes rotation {
+  from{transform: rotate(0deg);}
+  to{transform: rotate(360deg);}
+  
+}
+.hh{
+  width: 300px;
+  background-color: black;
+  border: none;
+  border-bottom: 2px solid white;
+  outline: none;
+  padding-top: 10px;
+  color: white;
+}
+.hk{
+  background-color: black;
+  border: none;
+  border-bottom: 2px solid white;
+  outline: none;
+  padding-top: 10px;
+  color: white;
+}
+#btn1{
+  margin-left: 476px;
+  margin-top: -66px;
+  width: 138.71px;
+}

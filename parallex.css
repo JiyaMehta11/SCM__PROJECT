@@ -1,0 +1,194 @@
+html{
+
+    scroll-behavior: smooth;
+    
+    }
+h1{
+    color: white;
+    font-size: 4rem;
+    /* font-weight: 400; */
+    font-weight: 100;
+    animation: rotate 7s;
+
+    
+}
+.para{
+    color: white;
+    padding:80px ;
+    
+}
+.backgroundimg{
+    background-image: url('https://static.wixstatic.com/media/c837a6_518925604ea94963890d43b5f41aa5bff000.jpg/v1/fill/w_1473,h_686,fp_0.62_0.47,q_85,usm_0.33_1.00_0.00,enc_auto/c837a6_518925604ea94963890d43b5f41aa5bff000.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 730px;
+
+}
+.pg2{
+    margin-top: 0%;
+    background-color: black;
+    height: 900px ;
+    position: relative;
+}
+.hr1{
+    position: absolute;
+    color: white;
+}
+.pg2para{
+    position: absolute;
+    color: white;
+    margin-top: 650px;
+}
+.img1{
+    margin-top: 384px;
+    width: 600px;
+    margin-left: 751px;
+}
+.hr2{
+    font-weight: bolder;
+    width: 1032px;
+    margin-top: 100px;
+    margin-left:100px ;
+}
+h3{
+    font-weight: 200;
+}
+.hr3{
+    width: 400px;
+}
+.istcard{
+    position: sticky;
+    padding: 3%;
+    display: inline-block;
+
+    box-shadow: 10px 10px 5px rgba(0,0,0,0.3) inset;
+
+    /* border: 0.2px solid grey; */
+    margin-left: 110px;
+    margin-top: 131px;
+    top: 200px;
+    background: white;
+    --bg-gradient: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.03) 6.548976898193359%, rgba(0,0,0,0.03) 93.94979476928711%, rgba(0,0,0,0) 100%);
+    --bg-overlay-color: transparent;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px  rgba(255, 255, 255, 0.5);
+
+}
+.img2{
+    position: relative;
+    width: 600px;
+    margin-left: 465px;
+    margin-top: -321px;
+}
+.help{
+    margin-left: 50px;
+}
+.ondcard{
+    position: sticky;
+    padding: 3%;
+    display: inline-block;
+    /* border: 0.2px solid grey; */
+    margin-left: 104px;
+    margin-top: 151px;
+    top:200px ;
+    background: white;
+    --bg-gradient: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.03) 6.548976898193359%, rgba(0,0,0,0.03) 93.94979476928711%, rgba(0,0,0,0) 100%);
+    --bg-overlay-color: transparent;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px  rgba(255, 255, 255, 0.5);
+
+}
+.dekhteh{
+    background: transparent;
+}
+.img3{
+    width: 300px;
+}
+.help2{
+    position: relative;
+    margin-top: -321px;
+    margin-left: 725px;
+}
+.trdcard{
+    position: sticky;
+    padding: 3%;
+    display: inline-block;
+    /* border: 0.2px solid grey; */
+    margin-left: 110px;
+    margin-top: 131px;
+    background: white;
+    --bg-gradient: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.03) 6.548976898193359%, rgba(0,0,0,0.03) 93.94979476928711%, rgba(0,0,0,0) 100%);
+    --bg-overlay-color: transparent;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px  rgba(255, 255, 255, 0.5);
+    top: 200px;
+}
+.img4{
+    width: 300px;
+    position: relative;
+    margin-top: -300px;
+    margin-left: 774px;
+}
+.blksheet{
+    background-color: black;
+    position: sticky;
+}
+.help3{
+    color: white;
+    font-weight: 100;
+    margin-top: 150px;
+    padding: 3%;
+}
+.para1{
+    position: relative;
+    margin-top: 88px;
+    margin-left: 985px;
+}
+.hr4{
+    border-top: 2px solid white;
+}
+.img5{
+    width: 100%;
+}
+.help4{
+    padding: 3%;
+    margin-top: 50px;
+    color: white;
+}
+.hr5{
+    border-top: 2px solid white;
+}
+.hr6{
+    border-top: 2px solid white;
+    width: 220px;
+}
+.give{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.img6{
+    width: 100%;
+    height: 300px;
+    margin-top: 200px;
+}
+.help5{
+    background-color: white;
+    color: black;
+    padding: 3%;
+    margin-top: 50px;
+}
+.give2{
+    margin-top: 146px;
+    margin-left: 836px;
+}
+.space{
+    margin-top: 100px;
+}
+.kk47{
+    transition: 2s;
+}
+.kk47:hover{
+    transform: scale(1.5);
+}
