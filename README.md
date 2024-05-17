@@ -9,8 +9,8 @@
 
 <h2>Introduction</h2>
 
-We are a group of three passionate developers working on this project. Our goal is to create a user-friendly web application that allows users to share a website with the help of social share buttons.
-
+We are a team of three developers collaborating on this project.<br>
+The objective of our project, expense tracker app is to empower individuals to take control of their financial lives, make informed decisions, and achieve their financial goals.
 <h2>Group Members</h2>
 
 1. Jigyasa(2310990703)
@@ -32,7 +32,7 @@ We are a group of three passionate developers working on this project. Our goal 
             <th>Sr No.</th>
             <th>Roll No.</th>
             <th>Name</th>
-            <th>Commit</th>
+            <th>Work Done</th>
         </tr>
     </thead>
     <tbody>
@@ -40,19 +40,19 @@ We are a group of three passionate developers working on this project. Our goal 
             <td>1</td>
             <td>2310990703</td>
             <td>Jigyasa</td>
-            <td>Upload Version 2,Readme and changes in files</td>
+            <td>Upload Version 2, README file and Doing required changes</td>
         </tr>
         <tr>
             <td>2</td>
             <td>2310990704</td>
             <td>Jiya</td>
-            <td>Upload Version 1,commit changes in files</td>
+            <td>Upload Version 1, README file, Doing required changes</td>
         </tr>
         <tr>
             <td>3</td>
             <td>2310990705</td>
             <td>Kabir</td>
-            <td>Upload Final Version and commit changes</td>
+            <td>Upload Final Version and Doing final changes</td>
         </tr>
     </tbody>
 </table>
