@@ -58,12 +58,12 @@ The objective of our project, expense tracker app is to empower individuals to t
 </table>
 <h2>Versions</h2>
 <h3>Version 1</h3>
-In this initial version, we have created a 'HOME' page and an 'ABOUT US' page.<br>
+In this initial version, we have created a 'HOME' page and an 'ABOUT US' page.<br><br>
 <ul>
-<li>The home page contains all the information about the user's financial decisions.</li><br>
-<li>It displays the amount of money the user has invested, sent, received, card expenses, and the money earned in the year, with a comparison to previous years.</li><br>
+<li>The home page contains all the information about the user's financial decisions.</li>
+<li>It displays the amount of money the user has invested, sent, received, card expenses, and the money earned in the year, with a comparison to previous years.</li>
 <li>Various graphs provide a visual comparison.</li> <br><br>
-<li>The 'about us' page contains information about the project.</li><br>
+<li>The 'about us' page contains information about the project.</li>
 <li>Users can also provide suggestions to improve the expense tracker, providing them with a better experience.</li>
 </ul>
 
