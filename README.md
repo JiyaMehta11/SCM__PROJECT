@@ -24,7 +24,6 @@ The objective of our project, expense tracker app is to empower individuals to t
 3. <span style="font-size: 18px;">Installation</span>
 4. <span style="font-size: 18px;">Usage</span>
 5. <span style="font-size: 18px;">Contributing</span>
-6. <span style="font-size: 18px;">License</span>
 
 <table>
     <thead>
@@ -90,6 +89,22 @@ In the latest version, we've made several enhancements to our platform. <br>
 <li>Furthermore, we've added JavaScript to enhance its visual appeal.</li>
 <li>We've significantly improved the overall project aesthetics by adding different js animations in the project.</li>
 </ul>
+<h2>Installation</h2>
+To run this website locally, follow these steps:
+<br>
+<ul><li>Clone this repository.</li>
+<li>Open the project folder in your preferred code editor.</li>
+<li>Launch the mainpage.html file in your web browser.</li>
+</ul>
+<h2>Usage</h2>
+<ul>
+<li>Send or invest money as you wish using your card details while viewing various graphs.</li>
+<li>Make sure to monitor and record all of your expenditures.</li>
+<li>Feel free to communicate with us at your convenience.</li>
+</ul>
+<h2>Contributing</h2>
+Feel free to share your ideas for enhancing the website or adding new features. You can contribute by submitting pull requests or opening issues on the GitHub repository.
+
 
 </body>
 </html>
