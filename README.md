@@ -62,10 +62,17 @@ In this initial version, we have created a 'HOME' page and an 'ABOUT US' page.<b
 <ul>
 <li>The home page contains all the information about the user's financial decisions.</li>
 <li>It displays the amount of money the user has invested, sent, received, card expenses, and the money earned in the year, with a comparison to previous years.</li>
-<li>Various graphs provide a visual comparison.</li> <br><br>
+<li>Various graphs provide a visual comparison.</li> <br>
 <li>The 'about us' page contains information about the project.</li>
 <li>Users can also provide suggestions to improve the expense tracker, providing them with a better experience.</li>
 </ul>
-
+<h3>Version 2</h3>
+In the second update, we have introduced a new "Contact" page to facilitate direct communication with our users.<br><br>
+<ul>
+<li>This feature enables users to easily reach out to us for any assistance.</li>
+<li>User can also get support related to the expense tracker.</li>
+<li>Additionally, users can use the "Contact" page to share valuable suggestions and feedback to help us enhance the expense tracker experience.</li>
+<li>We have also beautified the previous work done.</li>
+</ul>
 </body>
 </html>
