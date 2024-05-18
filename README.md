@@ -5,8 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+<h1>Expense Tracker</h1>
 
-<h2>SCM_PROJECT</h2>
+<h2>Introduction</h2>
+
+We are a team of three developers collaborating on this project.<br>
+The objective of our project, expense tracker app is to empower individuals to take control of their financial lives, make informed decisions, and achieve their financial goals.
+<h2>Group Members</h2>
+
+1. Jigyasa(2310990703)
+2. Jiya Mehta(2310990704)
+3. Kabir(2310990705)
+
+<h2>Table of Contents</h2>
+
+1. <span style="font-size: 18px;">Versions</span>
+2. <span style="font-size: 18px;">Features</span>
+3. <span style="font-size: 18px;">Installation</span>
+4. <span style="font-size: 18px;">Usage</span>
+5. <span style="font-size: 18px;">Contributing</span>
+6. <span style="font-size: 18px;">License</span>
 
 <table>
     <thead>
@@ -14,7 +32,7 @@
             <th>Sr No.</th>
             <th>Roll No.</th>
             <th>Name</th>
-            <th>Commit</th>
+            <th>Work Done</th>
         </tr>
     </thead>
     <tbody>
@@ -22,19 +40,19 @@
             <td>1</td>
             <td>2310990703</td>
             <td>Jigyasa</td>
-            <td>Upload Version 2,Readme and changes in files</td>
+            <td>Upload Version 2, README file and Doing required changes</td>
         </tr>
         <tr>
             <td>2</td>
             <td>2310990704</td>
             <td>Jiya</td>
-            <td>Upload Version 1,commit changes in files</td>
+            <td>Upload Version 1, README file, Doing required changes</td>
         </tr>
         <tr>
             <td>3</td>
             <td>2310990705</td>
             <td>Kabir</td>
-            <td>Upload Final Version and commit changes</td>
+            <td>Upload Final Version and Doing final changes</td>
         </tr>
     </tbody>
 </table>
