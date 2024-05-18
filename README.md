@@ -24,7 +24,6 @@ The objective of our project, expense tracker app is to empower individuals to t
 3. <span style="font-size: 18px;">Installation</span>
 4. <span style="font-size: 18px;">Usage</span>
 5. <span style="font-size: 18px;">Contributing</span>
-6. <span style="font-size: 18px;">License</span>
 
 <table>
     <thead>
@@ -56,14 +55,6 @@ The objective of our project, expense tracker app is to empower individuals to t
         </tr>
     </tbody>
 </table>
-<h2>Versions</h2>
-<h3>Version 1</h3><br>
-In this initial version, we have created a 'HOME' page and an 'ABOUT US' page.<br>
-*The home page contains all the information about the user's financial decisions.<br>
-    *It displays the amount of money the user has invested, sent, received, card expenses, and the money earned in the year, with a comparison to previous years.<br>
-    *Various graphs provide a visual comparison. <br>
-*The 'about us' page contains information about the project.<br>
-    *Users can also provide suggestions to improve the expense tracker, providing them with a better experience.
 
 </body>
 </html>
