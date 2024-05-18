@@ -74,5 +74,22 @@ In the second update, we have introduced a new "Contact" page to facilitate dire
 <li>Additionally, users can use the "Contact" page to share valuable suggestions and feedback to help us enhance the expense tracker experience.</li>
 <li>We have also beautified the previous work done.</li>
 </ul>
+<h3>Version 3</h3>
+In the latest version, we've made several enhancements to our platform. <br>
+<h4>HOME page</h4>
+<ul>
+<li>Users now can conveniently add or manage their card details.</li>
+<li>This empowers them to send or invest money according to their preferences while easily tracking their previous investments through interactive graphs.</li>
+</ul>
+<h4>CONTACT US page</h4>
+<ul>
+<li>It has been enriched with additional comprehensive information about our team members.</li>
+<li>Users also have the option to subscribe for access to a wider range of facilities.</li>
+</ul>
+<ul>
+<li>Furthermore, we've added JavaScript to enhance its visual appeal.</li>
+<li>We've significantly improved the overall project aesthetics by adding different js animations in the project.</li>
+</ul>
+
 </body>
 </html>
